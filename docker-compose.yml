@@ -1,0 +1,11 @@
+version: "3.12.0"
+
+services:
+  telegram-bot:
+    container_name: birthdays-lazarevskoe-bot-2
+    working_dir: /birthdays_lazarevskoe_bot_2
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: sh -c "python3 main.py"

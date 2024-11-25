@@ -1,1 +1,1 @@
-# bday_lazarevskoe_bot
+# Телеграм бот для multilingua.su

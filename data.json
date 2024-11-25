@@ -1,0 +1,7123 @@
+{
+    "data": [
+    {
+      "name": "Стуколов Михаил Юрьевич",
+      "position": "заместитель генерального директора ООО \"ЛАЗАРЕВСКОЕ ТЕХ\"",
+      "birthday": "06.02.1986",
+      "phone": 79051185931,
+      "email": "m.stukolov@lazarevo.tech",
+      "supervisor": true,
+      "phone2": 1781
+    },
+    {
+      "name": "Башлыков Петр Никифорович",
+      "position": "",
+      "birthday": "24.02.1958",
+      "phone": 79066294595,
+      "email": "bashlykov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": ""
+    },
+    {
+      "name": "Дятчина Светлана Александровна",
+      "position": "ведущий специалист отдела ВиСПП",
+      "birthday": "18.05.1985",
+      "phone": 79156900363,
+      "email": "dyatchina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1662
+    },
+    {
+      "name": "Карпушкин Вячеслав Вячеславович",
+      "position": "начальник отдела внедрения и сопровождения программных продуктов",
+      "birthday": "02.05.1979",
+      "phone": 79157812114,
+      "email": "karpushkin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1607
+    },
+    {
+      "name": "Волков Алексей Вячеславович",
+      "position": "слесарь по ремонту автомобилей",
+      "birthday": "01.01.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воеводин Анатолий Иванович",
+      "position": "дезинфектор",
+      "birthday": "01.01.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Стекачева Оксана Николаевна",
+      "position": "оператор 1 периода супоросности",
+      "birthday": "01.01.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дадонов Владимир Викторович",
+      "position": "водитель ",
+      "birthday": "02.01.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Подшибякина Оксана Александровна",
+      "position": "старший нормировщик ",
+      "birthday": "02.01.1980",
+      "phone": "",
+      "email": "podshibyakina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1722
+    },
+    {
+      "name": "Ивайкова Вера Михайловна",
+      "position": "оператор по уходу за животными",
+      "birthday": "03.01.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Залетина Наталья Александровна",
+      "position": "рабочая ",
+      "birthday": "03.01.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бармоткина Татьяна Николаевна",
+      "position": "изготовитель натуральной колбасной оболочки ",
+      "birthday": "03.01.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Горбунов Алексей Владимирович",
+      "position": "агроном 1 категории ",
+      "birthday": "03.01.1997",
+      "phone": 79101500535,
+      "email": "gorbunov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Долинин Алексей Валентинович",
+      "position": "старший охранник ",
+      "birthday": "04.01.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калинин Борис Викторович",
+      "position": "рабочий по приемке добавок",
+      "birthday": "04.01.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Агеев Николай Иванович",
+      "position": "охранник ",
+      "birthday": "05.01.1961",
+      "phone": 79051139474,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Котосова Вера Владимировна",
+      "position": "оператор по ветобработке",
+      "birthday": "05.01.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Боженко Олеся Ивановна",
+      "position": "специалист ",
+      "birthday": "05.01.1993",
+      "phone": 79107039790,
+      "email": "o.levshina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1622
+    },
+    {
+      "name": "Акишор Илья Романович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "05.01.2003",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернышев Дмитрий Владимирович",
+      "position": "водитель ",
+      "birthday": "06.01.1977",
+      "phone": 79509093100,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Морозова Оксана Владимировна",
+      "position": "кладовщик ",
+      "birthday": "06.01.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сырова Светлана Васильевна",
+      "position": "расфасовщик ",
+      "birthday": "08.01.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баранов Евгений Вячеславович",
+      "position": "тракторист ",
+      "birthday": "08.01.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Полусычева Наталия Евгеньевна",
+      "position": "продавец-кассир ",
+      "birthday": "09.01.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козарез Геннадий Николаевич",
+      "position": "электрослесарь по ремонту электрооборудования электростанций",
+      "birthday": "09.01.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Обухова Наталья Ильинична",
+      "position": "оператор по уходу за животными",
+      "birthday": "10.01.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Каукина Анастасия Игоревна",
+      "position": "экономист ",
+      "birthday": "11.01.1995",
+      "phone": "",
+      "email": "kaukina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Выставкин Владимир Николаевич",
+      "position": "начальник цеха ",
+      "birthday": "11.01.1960",
+      "phone": 79539685337,
+      "email": "vystavkin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1654
+    },
+    {
+      "name": "Ролид-Савинская Евгения Сергеевна",
+      "position": "техник по племенному делу ",
+      "birthday": "11.01.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лонченков Валерий Алексеевич",
+      "position": "уборщик производственных помещений ",
+      "birthday": "11.01.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калинич Андрей Владимирович",
+      "position": "инженер-механик ",
+      "birthday": "11.01.1987",
+      "phone": 79107040078,
+      "email": "kalinich@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1621
+    },
+    {
+      "name": "Филатова Оксана Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "12.01.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Савосина Валентина Васильевна",
+      "position": "продавец-кассир ",
+      "birthday": "12.01.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Романченко Елена Васильевна",
+      "position": "диспетчер ",
+      "birthday": "13.01.1987",
+      "phone": 79534277761,
+      "email": "romanchenko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1718
+    },
+    {
+      "name": "Киреичев Сергей Владимирович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "13.01.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Князев Сергей Алексеевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "13.01.1995",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сосунов Роман Викторович",
+      "position": "ведущий инженер ИТ-инфраструктуры ",
+      "birthday": "14.01.1971",
+      "phone": "",
+      "email": "sosunov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1700
+    },
+    {
+      "name": "Новиков Иван Викторович",
+      "position": "оператор автоматической линии производства молочных продуктов",
+      "birthday": "14.01.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Яковлев Максим Викторович",
+      "position": "слесарь",
+      "birthday": "14.01.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Масленникова Ангелина Алексеевна",
+      "position": "помощник бухгалтера ",
+      "birthday": "15.01.2003",
+      "phone": "",
+      "email": "maslennikova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1663
+    },
+    {
+      "name": "Подшибякин Павел Алексеевич",
+      "position": "инженер по метрологии ",
+      "birthday": "15.01.2000",
+      "phone": "",
+      "email": "podshibyakin.p@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1731
+    },
+    {
+      "name": "Гвоздев Виктор Алексеевич",
+      "position": "водитель ",
+      "birthday": "17.01.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Суханькова Любовь Николаевна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "17.01.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Аверкина Наталья Викторовна",
+      "position": "расфасовщик ",
+      "birthday": "18.01.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Панфилов Андрей Игоревич",
+      "position": "водитель ",
+      "birthday": "18.01.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петрушова Татьяна Ивановна",
+      "position": "продавец-кассир ",
+      "birthday": "19.01.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Слёзкин Андрей Алексеевич",
+      "position": "начальник цеха ",
+      "birthday": "19.01.1975",
+      "phone": 79109415466,
+      "email": "slezkin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1715
+    },
+    {
+      "name": "Сироткина Екатерина Сергеевна",
+      "position": "расфасовщик ",
+      "birthday": "19.01.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гайдуков Александр Сергеевич",
+      "position": "инженер-механик ",
+      "birthday": "19.01.1989",
+      "phone": 79101500656,
+      "email": "gajdukov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1714
+    },
+    {
+      "name": "Горешков Михаил Михайлович",
+      "position": "водитель ",
+      "birthday": "20.01.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вилков Алексей Геннадьевич",
+      "position": "аппаратчик обработки зерна зерноочистительного комплекса",
+      "birthday": "20.01.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сапов Александр Михайлович",
+      "position": "главный энергетик ",
+      "birthday": "21.01.1956",
+      "phone": 79534412857,
+      "email": "sapov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1707
+    },
+    {
+      "name": "Пахомов Николай Сергеевич",
+      "position": "инженер-механик ",
+      "birthday": "21.01.1978",
+      "phone": 79534389701,
+      "email": "pahomov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1618
+    },
+    {
+      "name": "Шпоха Елена Виталиевна",
+      "position": "доярка ",
+      "birthday": "21.01.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьменков Владимир Степанович",
+      "position": "слесарь-сантехник",
+      "birthday": "22.01.1954",
+      "phone": 79207606985,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дропало Анна Сергеевна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "22.01.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Арутюнян Давид Аветисович",
+      "position": "рабочий ",
+      "birthday": "22.01.1994",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баканова Татьяна Михайловна",
+      "position": "менеджер ",
+      "birthday": "23.01.1983",
+      "phone": 79539605291,
+      "email": "bakanova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1720
+    },
+    {
+      "name": "Горчаков Кирилл Сергеевич",
+      "position": "ветеринарный врач ",
+      "birthday": "23.01.1994",
+      "phone": "",
+      "email": "gorchakov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Федотова Вера Николаевна",
+      "position": "садовник ",
+      "birthday": "24.01.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Боярова Альбина Леонидовна",
+      "position": "продавец-кассир ",
+      "birthday": "24.01.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Демина Наталья Александровна",
+      "position": "начальник репродуктора ",
+      "birthday": "24.01.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Морозов Руслан Юрьевич",
+      "position": "перегонщик-мойщик ",
+      "birthday": "24.01.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тарасова Элеонора Васильевна",
+      "position": "супервайзер ",
+      "birthday": "25.01.1979",
+      "phone": 79107005537,
+      "email": "tarasova.el@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Татарникова Тамара Валентиновна",
+      "position": "продавец-кассир ",
+      "birthday": "25.01.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Беликов Игорь Викторович",
+      "position": "водитель ",
+      "birthday": "25.01.1958",
+      "phone": 79539533789,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воеводина Марина Владимировна",
+      "position": "старшая рабочая СБК",
+      "birthday": "26.01.1980",
+      "phone": "",
+      "email": "voevodina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Хавхалюк Николай Юрьевич",
+      "position": "водитель ",
+      "birthday": "27.01.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Алексашин Денис Сергеевич",
+      "position": "дезинфектор",
+      "birthday": "27.01.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ренкус Светлана Васильевна",
+      "position": "жиловщик ",
+      "birthday": "27.01.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Русанова Алла Владимировна",
+      "position": "кладовщик ",
+      "birthday": "27.01.1981",
+      "phone": 79539666881,
+      "email": "rusanova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1656
+    },
+    {
+      "name": "Румянцева Татьяна Николаевна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "29.01.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Осипова Наталья Егоровна",
+      "position": "продавец-кассир ",
+      "birthday": "29.01.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ларина Анна Павловна",
+      "position": "продавец-кассир ",
+      "birthday": "29.01.1995",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баллыев Оразбай Какышович",
+      "position": "водитель ",
+      "birthday": "29.01.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Домнина Оксана Викторовна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "30.01.1984",
+      "phone": "",
+      "email": "domnina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1703
+    },
+    {
+      "name": "Корягина Ксения Андреевна",
+      "position": "продавец-кассир ",
+      "birthday": "30.01.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миненко Екатерина Михайловна",
+      "position": "продавец-кассир ",
+      "birthday": "31.01.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зелинский Василий Иванович",
+      "position": "дезинфектор",
+      "birthday": "31.01.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковалева Екатерина Геннадьевна",
+      "position": "нарезчик и упаковщик колбасных изделий ",
+      "birthday": "31.01.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мосин Роман Валериевич",
+      "position": "ведущий менеджер по снабжению ",
+      "birthday": "01.02.1991",
+      "phone": 79190810342,
+      "email": "mosin@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1705
+    },
+    {
+      "name": "Кирюхина Наталья Николаевна",
+      "position": "весовщик ",
+      "birthday": "01.02.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чалых Светлана Александровна",
+      "position": "рабочая ",
+      "birthday": "02.02.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гречихин Евгений Александрович",
+      "position": "дезинфектор",
+      "birthday": "03.02.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Прохорова Вера Николаевна",
+      "position": "штукатур-маляр",
+      "birthday": "04.02.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Попов Алексей Викторович",
+      "position": "тракторист ",
+      "birthday": "04.02.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Паньшин Николай Феофанович",
+      "position": "инженер-механик ",
+      "birthday": "05.02.1953",
+      "phone": 79534412842,
+      "email": "panshin@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миронова Галина Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "06.02.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моисеев Вячеслав Александрович",
+      "position": "зоотехник-селекционер ",
+      "birthday": "07.02.1978",
+      "phone": 79531819707,
+      "email": "plem@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1645
+    },
+    {
+      "name": "Иванова Татьяна Геннадьевна",
+      "position": "составитель фарша",
+      "birthday": "08.02.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковач Владислав Николаевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "08.02.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шевченко Александр Александрович",
+      "position": "тракторист ",
+      "birthday": "09.02.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зорков Максим Александрович",
+      "position": "инженер-механик ",
+      "birthday": "09.02.1984",
+      "phone": 79612657844,
+      "email": "zorkov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1748
+    },
+    {
+      "name": "Горбунова Алина Евгеньевна",
+      "position": "экономист ",
+      "birthday": "10.02.1997",
+      "phone": 79107006886,
+      "email": "gorbunova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волкова Любовь Александровна",
+      "position": "повар",
+      "birthday": "11.02.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Устинов Михаил Викторович",
+      "position": "начальник службы ",
+      "birthday": "11.02.1987",
+      "phone": "",
+      "email": "sb-1@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1650
+    },
+    {
+      "name": "Рыкшина Ирина Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "11.02.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Корякин Владимир Валентинович",
+      "position": "дезинфектор",
+      "birthday": "12.02.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Тимур Мамадносирович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "14.02.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чихачев Вячеслав Владимирович",
+      "position": "охранник ",
+      "birthday": "15.02.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковалев Артем Владимирович",
+      "position": "грузчик ",
+      "birthday": "15.02.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Санталов Антон Михайлович",
+      "position": "агроном 2 категории ",
+      "birthday": "15.02.1988",
+      "phone": 79807231948,
+      "email": "santalov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Бобков Артём Андреевич",
+      "position": "инженер-механик ",
+      "birthday": "15.02.2001",
+      "phone": "",
+      "email": "bobkov_a@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1604
+    },
+    {
+      "name": "Калугин Евгений Владимирович",
+      "position": "водитель ",
+      "birthday": "16.02.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Королева Наталия Петровна",
+      "position": "продавец-кассир ",
+      "birthday": "17.02.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Афоничева Татьяна Ильинична",
+      "position": "аппаратчик термической обработки субпродуктов ",
+      "birthday": "17.02.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Финкельштейн Михаил Сергеевич",
+      "position": "начальник отдела ",
+      "birthday": "17.02.1983",
+      "phone": 79807209122,
+      "email": "finkelshtein@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1741
+    },
+    {
+      "name": "Саломасова Ольга Сергеевна",
+      "position": "диспетчер ",
+      "birthday": "17.02.1973",
+      "phone": 79539661664,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Соколов Андрей Александрович",
+      "position": "охранник ",
+      "birthday": "18.02.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Коломацкий Александр Иванович",
+      "position": "охранник ",
+      "birthday": "20.02.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Закревский Дмитрий Леонидович",
+      "position": "водитель ",
+      "birthday": "20.02.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Уездная Алена Арсентьевна",
+      "position": "начальник производства ",
+      "birthday": "20.02.1972",
+      "phone": 79534412852,
+      "email": "uezdnaya@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1656
+    },
+    {
+      "name": "Булычев Сергей Владимирович",
+      "position": "подсобный рабочий ",
+      "birthday": "21.02.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кислёнков Андрей Андреевич",
+      "position": "механик ",
+      "birthday": "21.02.2000",
+      "phone": "",
+      "email": "kislenkov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1604
+    },
+    {
+      "name": "Бармоткин Александр Александрович",
+      "position": "оператор пресса",
+      "birthday": "21.02.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баландин Роман Юрьевич",
+      "position": "охранник ",
+      "birthday": "22.02.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Харитонова Юлия Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "22.02.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гайдуков Сергей Николаевич",
+      "position": "водитель ",
+      "birthday": "22.02.1965",
+      "phone": 79531895963,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Турутов Александр Валентинович",
+      "position": "тракторист ",
+      "birthday": "22.02.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Андреева Валентина Алексеевна",
+      "position": "агроном-аналитик ",
+      "birthday": "22.02.1987",
+      "phone": 79107041035,
+      "email": "andreeva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Краснянская Галина Васильевна",
+      "position": "начальник цеха ",
+      "birthday": "23.02.1969",
+      "phone": "",
+      "email": "krasnyanskaya@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1616
+    },
+    {
+      "name": "Балакина Елена Александровна",
+      "position": "специалист ",
+      "birthday": "23.02.1980",
+      "phone": 79107040246,
+      "email": "balakina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1630
+    },
+    {
+      "name": "Вегера Валерий Владимирович",
+      "position": "начальник очистных сооружений ",
+      "birthday": "24.02.1950",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": 1736
+    },
+    {
+      "name": "Матафонов Николай Сергеевич",
+      "position": "водитель ",
+      "birthday": "24.02.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мишкин Максим Дмитриевич",
+      "position": "обвальщик мяса ",
+      "birthday": "24.02.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Горбунова Анастасия Александровна",
+      "position": "рабочий ",
+      "birthday": "24.02.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьменко Татьяна Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "25.02.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Данильченко Дарья Владимировна",
+      "position": "бухгалтер ",
+      "birthday": "26.02.2003",
+      "phone": "",
+      "email": "danilchenko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1622
+    },
+    {
+      "name": "Антошина Татьяна Сергеевна",
+      "position": "продавец-кассир ",
+      "birthday": "26.02.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковалев Михаил Леонидович",
+      "position": "слесарь-сантехник",
+      "birthday": "26.02.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миронова Наталья Геннадьевна",
+      "position": "мастер ",
+      "birthday": "26.02.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бычкова Галина Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "27.02.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кудинова Анна Викторовна",
+      "position": "расфасовщик ",
+      "birthday": "27.02.1994",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юрченко Михаил Владимирович",
+      "position": "слесарь",
+      "birthday": "27.02.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Боровков Алексей Владимирович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "28.02.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юдин Николай Васильевич",
+      "position": "токарь",
+      "birthday": "28.02.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Проскурина Инна Александровна",
+      "position": "специалист мониторинга ",
+      "birthday": "01.03.1989",
+      "phone": "",
+      "email": "proskurina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козлов Сергей Сергеевич",
+      "position": "слесарь-сантехник",
+      "birthday": "02.03.1960",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Скуридин Эдуард Алексеевич",
+      "position": "водитель ",
+      "birthday": "02.03.1972",
+      "phone": 79539603891,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Толчкова Александра Андреевна",
+      "position": "расфасовщик ",
+      "birthday": "02.03.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Исаев Сергей Анатольевич",
+      "position": "тракторист ",
+      "birthday": "03.03.1972",
+      "phone": 79107045615,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вербенко Екатерина Михайловна",
+      "position": "охранник ",
+      "birthday": "04.03.2004",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Брагин Алексей Николаевич",
+      "position": "аппаратчик термической обработки колбасных изделий-грузчик",
+      "birthday": "05.03.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сухарьков Андрей Викторович",
+      "position": "оператор участка по переработке и утилизации отходов",
+      "birthday": "05.03.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Евтухов Алексей Анатольевич",
+      "position": "охранник ",
+      "birthday": "06.03.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Силаев Николай Викторович",
+      "position": "охранник ",
+      "birthday": "06.03.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Корнеева Светлана Владимировна",
+      "position": "техник по племенному делу ",
+      "birthday": "07.03.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Матафонова Татьяна Сергеевна",
+      "position": "лаборант-заквасчик ",
+      "birthday": "07.03.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вишневская Светлана Ивановна",
+      "position": "жиловщик ",
+      "birthday": "08.03.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Череповский Александр Юрьевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "09.03.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Клименова Татьяна Владимировна",
+      "position": "расфасовщик",
+      "birthday": "10.03.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шаманская Наталья Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "11.03.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Маслова Антонина Николаевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "11.03.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Киреичева Нина Александровна",
+      "position": "старший бригадир ",
+      "birthday": "11.03.1961",
+      "phone": 79509200881,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волченков Алексей Андреевич",
+      "position": "водитель ",
+      "birthday": "13.03.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Блохина Татьяна Гавриловна",
+      "position": "подсобный рабочий ",
+      "birthday": "13.03.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Никитина Татьяна Валерьевна",
+      "position": "финансовый директор ",
+      "birthday": "14.03.1990",
+      "phone": 79156800260,
+      "email": "nikitina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1724
+    },
+    {
+      "name": "Ефимов Михаил Иванович",
+      "position": "слесарь-сантехник",
+      "birthday": "14.03.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Скачкова Елена Юрьевна",
+      "position": "первый заместитель генерального директора ",
+      "birthday": "15.03.1970",
+      "phone": 79190814112,
+      "email": "skachkova@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1664
+    },
+    {
+      "name": "Андрюхина Нина Вячеславовна",
+      "position": "диспетчер ",
+      "birthday": "15.03.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ефремков Дмитрий Николаевич",
+      "position": "главный инженер ",
+      "birthday": "16.03.1993",
+      "phone": 79101500565,
+      "email": "efremkov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1614
+    },
+    {
+      "name": "Перчикова Ольга Алексеевна",
+      "position": "старший диспетчер ",
+      "birthday": "16.03.1958",
+      "phone": "",
+      "email": "perchikova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1718
+    },
+    {
+      "name": "Веселкина Светлана Сергеевна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "16.03.2005",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кудрявцев Михаил Дмитриевич",
+      "position": "тракторист ",
+      "birthday": "16.03.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Евглевская Татьяна Ивановна",
+      "position": "оператор по ветобработке",
+      "birthday": "18.03.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фадин Николай Анатольевич",
+      "position": "водитель ",
+      "birthday": "20.03.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Наумкин Артем Иванович",
+      "position": "обвальщик мяса ",
+      "birthday": "20.03.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Плякин Олег Викторович",
+      "position": "охранник ",
+      "birthday": "21.03.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новикова Ольга Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "21.03.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Яковлева Светлана Анатольевна",
+      "position": "изготовитель натуральной колбасной оболочки ",
+      "birthday": "21.03.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Седов Валерий Николаевич",
+      "position": "тракторист ",
+      "birthday": "21.03.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Денисов Денис Борисович",
+      "position": "водитель ",
+      "birthday": "22.03.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Малафеюк Мария Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "23.03.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волкова Ольга Сергеевна",
+      "position": "бухгалтер-кладовщик ",
+      "birthday": "23.03.1986",
+      "phone": 79509214886,
+      "email": "",
+      "supervisor": false,
+      "phone2": 1626
+    },
+    {
+      "name": "Чухнов Виктор Викторович",
+      "position": "водитель ",
+      "birthday": "24.03.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Елимеев Андрей Михайлович",
+      "position": "грузчик ",
+      "birthday": "24.03.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Романовская Кристина Федоровна",
+      "position": "генеральный директор",
+      "birthday": "25.03.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Титова Людмила Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "25.03.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Савинова Ольга Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "25.03.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Балакин Алексей Юрьевич",
+      "position": "водитель ",
+      "birthday": "25.03.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воронов Александр Вячеславович",
+      "position": "водитель ",
+      "birthday": "25.03.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кирякина Елена Эдуардовна",
+      "position": "скотник по уходу за КРС 1 периода откорма ",
+      "birthday": "25.03.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калинич Василий Владимирович",
+      "position": "водитель ",
+      "birthday": "26.03.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зорикова Валентина Александровна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "28.03.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гревцев Николай Васильевич",
+      "position": "охранник ",
+      "birthday": "28.03.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моргунов Максим Макарович",
+      "position": "водитель ",
+      "birthday": "28.03.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Антонов Сергей Валерьевич",
+      "position": "тракторист ",
+      "birthday": "28.03.1976",
+      "phone": 79190706476,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Левшина Наталья Викторовна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "29.03.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зюзина Татьяна Георгиевна",
+      "position": "оператор по уходу за животными",
+      "birthday": "29.03.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баринова Наталья Сергеевна",
+      "position": "специалист по подбору персонала ",
+      "birthday": "29.03.1981",
+      "phone": 79107040075,
+      "email": "hr@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Илюхин Алексей Викторович",
+      "position": "охранник ",
+      "birthday": "30.03.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еремичева Елена Александровна",
+      "position": "финансист ",
+      "birthday": "01.04.1981",
+      "phone": "",
+      "email": "eremicheva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Морозова Карина Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "01.04.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ермакова Наталия Анатольевна",
+      "position": "продавец-кассир ",
+      "birthday": "01.04.1956",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сотников Виктор Николаевич",
+      "position": "оператор по перегону",
+      "birthday": "01.04.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Свиридов Владимир Валерьевич",
+      "position": "оператор пресса",
+      "birthday": "02.04.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Алексей Борисович",
+      "position": "водитель ",
+      "birthday": "03.04.1966",
+      "phone": 79051103775,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еськова Наталья Львовна",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "03.04.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ивченко Сергей Владимирович",
+      "position": "директор по производству ",
+      "birthday": "04.04.1989",
+      "phone": 79156805463,
+      "email": "ivchenko@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1609
+    },
+    {
+      "name": "Гуляева Наталья Алексеевна",
+      "position": "старший диспетчер ",
+      "birthday": "04.04.1978",
+      "phone": 79509200876,
+      "email": "nesterenko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1713
+    },
+    {
+      "name": "Тарасевич Илья Дмитриевич",
+      "position": "оператор котельной",
+      "birthday": "04.04.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Андреев Александр Викторович",
+      "position": "водитель ",
+      "birthday": "05.04.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Курятников Евгений Вячеславович",
+      "position": "водитель ",
+      "birthday": "05.04.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Безногов Вячеслав Викторович",
+      "position": "электрогазосварщик",
+      "birthday": "05.04.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петроченко Олег Сергеевич",
+      "position": "механик ",
+      "birthday": "05.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лемягов Юрий Герасимович",
+      "position": "охранник ",
+      "birthday": "06.04.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Березовский Григорий Сергеевич",
+      "position": "водитель ",
+      "birthday": "06.04.1949",
+      "phone": 79156898925,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Молостова Татьяна Сергеевна",
+      "position": "бухгалтер-кладовщик ",
+      "birthday": "06.04.1985",
+      "phone": 79534340916,
+      "email": "",
+      "supervisor": false,
+      "phone2": 1726
+    },
+    {
+      "name": "Елимеева Ирина Васильевна",
+      "position": "подсобный рабочий ",
+      "birthday": "06.04.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Болотов Андрей Сергеевич",
+      "position": "тракторист ",
+      "birthday": "06.04.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кожин Дмитрий Александрович",
+      "position": "тракторист ",
+      "birthday": "06.04.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кукушкина Анна Владимировна",
+      "position": "оператор по ветобработке",
+      "birthday": "07.04.1994",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кужабергенов Дмитрий",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "07.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Яров Валерий Львович",
+      "position": "начальник участка ",
+      "birthday": "07.04.1967",
+      "phone": 79157800814,
+      "email": "yarov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1749
+    },
+    {
+      "name": "Чибисова Ирина Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "08.04.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ланцов Константин Аркадьевич",
+      "position": "водитель ",
+      "birthday": "08.04.1958",
+      "phone": 79534423006,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Уваров Михаил Викторович",
+      "position": "тракторист ",
+      "birthday": "08.04.1952",
+      "phone": 79509119252,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лозовая Светлана Владимировна",
+      "position": "начальник отдела ",
+      "birthday": "08.04.1986",
+      "phone": 79250605709,
+      "email": "lozovaya@lazarevo.ru",
+      "supervisor": true,
+      "phone2": ""
+    },
+    {
+      "name": "Муравский Юрий Викторович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "08.04.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бронникова Олеся Юрьевна",
+      "position": "директор по управлению персоналом ",
+      "birthday": "09.04.1981",
+      "phone": "",
+      "email": "bronnikova@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1655
+    },
+    {
+      "name": "Незнамова Елена Валентиновна",
+      "position": "продавец-кассир ",
+      "birthday": "09.04.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козлова Ирина Петровна",
+      "position": "продавец-кассир ",
+      "birthday": "09.04.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Панкин Сергей Анатольевич",
+      "position": "охранник ",
+      "birthday": "10.04.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Башкиров Алексей Владимирович",
+      "position": "водитель ",
+      "birthday": "10.04.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фатеев Александр Васильевич",
+      "position": "охранник ",
+      "birthday": "11.04.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Колычев Александр Сергеевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "11.04.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Федулова Татьяна Борисовна",
+      "position": "оператор по ветобработке",
+      "birthday": "11.04.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Онучин Сергей Александрович",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "11.04.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воробец Ольга Валерьевна",
+      "position": "мастер ",
+      "birthday": "11.04.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кирпичников Юрий Ильич",
+      "position": "машинист насосных установок",
+      "birthday": "12.04.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воронина Елена Николаевна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "12.04.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Меркелова Анжелика Евгеньевна",
+      "position": "кладовщик ",
+      "birthday": "12.04.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воронцова Алина Олеговна",
+      "position": "специалист по производственному учету ",
+      "birthday": "13.04.2000",
+      "phone": "",
+      "email": "vorontsova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1617
+    },
+    {
+      "name": "Дрынин Николай Александрович",
+      "position": "слесарь-ремонтник",
+      "birthday": "13.04.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Родионов Сергей Викторович",
+      "position": "тракторист ",
+      "birthday": "13.04.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Павлов Николай Владимирович",
+      "position": "рабочий по приемке добавок",
+      "birthday": "13.04.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковальчук Сергей Леонидович",
+      "position": "тракторист ",
+      "birthday": "14.04.1969",
+      "phone": 79190715190,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Иванов Павел Викторович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "15.04.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Денисов Андрей Дмитриевич",
+      "position": "тракторист ",
+      "birthday": "15.04.1999",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьмин Андрей Вячеславович",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "15.04.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баздырева Наталья Владимировна",
+      "position": "охранник ",
+      "birthday": "16.04.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ревин Андрей Анатольевич",
+      "position": "охранник ",
+      "birthday": "16.04.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сургучева Светлана Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "16.04.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гордеева Татьяна Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "16.04.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Медведев Сергей Вячеславович",
+      "position": "тракторист ",
+      "birthday": "16.04.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ипатова Елена Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "17.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фандеева Ольга Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "17.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еремин Константин Николаевич",
+      "position": "кладовщик ",
+      "birthday": "17.04.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Филатов Александр Александрович",
+      "position": "тракторист ",
+      "birthday": "17.04.1980",
+      "phone": 79531901736,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гусева Елена Викторовна",
+      "position": "начальник лаборатории ",
+      "birthday": "17.04.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": 1634
+    },
+    {
+      "name": "Кузнецова Светлана Юрьевна",
+      "position": "оператор 2 периода супоросности",
+      "birthday": "18.04.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Климова Мария Юрьевна",
+      "position": "весовщик ",
+      "birthday": "18.04.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кудинов Александр Александрович",
+      "position": "тракторист ",
+      "birthday": "19.04.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Безногова Наталья Владимировна",
+      "position": "заместитель главного бухгалтера ",
+      "birthday": "20.04.1986",
+      "phone": 79101500642,
+      "email": "beznogova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1663
+    },
+    {
+      "name": "Моисеев Евгений Евгеньевич",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "20.04.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Токарев Владимир Васильевич",
+      "position": "водитель ",
+      "birthday": "20.04.1960",
+      "phone": 79539513131,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Александр Олегович",
+      "position": "тракторист ",
+      "birthday": "20.04.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Милькаманович Оксана Викторовна",
+      "position": "охранник ",
+      "birthday": "21.04.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Завьялов Алексей Николаевич",
+      "position": "специалист внутреннего контроля и режима ",
+      "birthday": "21.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Харькова Светлана Аршавировна",
+      "position": "кухонный работник ",
+      "birthday": "22.04.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Уторова Галина Сергеевна",
+      "position": "комплектовщик ",
+      "birthday": "22.04.1995",
+      "phone": "",
+      "email": "utorova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Черкасова Елена Павловна",
+      "position": "продавец-кассир ",
+      "birthday": "22.04.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Костриков Андрей Викторович",
+      "position": "слесарь-сантехник",
+      "birthday": "22.04.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Давыдова Марина Михайловна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "22.04.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шевченко Юлия Юрьевна",
+      "position": "телятница по уходу за телятами от 0 до 2-х месяцев ",
+      "birthday": "23.04.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернышев Алексей Дмитриевич",
+      "position": "водитель ",
+      "birthday": "24.04.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кривошеин Валерий Васильевич",
+      "position": "охранник ",
+      "birthday": "25.04.1960",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дадонова Елена Родионовна",
+      "position": "рабочая ",
+      "birthday": "25.04.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Рычков Владимир Юрьевич",
+      "position": "тракторист ",
+      "birthday": "26.04.1972",
+      "phone": 79632265479,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Завгороднюк Александр Николаевич",
+      "position": "охранник ",
+      "birthday": "27.04.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козлова Елена Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "27.04.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Болотов Сергей Григорьевич",
+      "position": "водитель ",
+      "birthday": "27.04.1968",
+      "phone": 79105815302,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Воронов Александр Александрович",
+      "position": "водитель ",
+      "birthday": "27.04.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Демин Андрей Викторович",
+      "position": "инженер по безопасности движения ",
+      "birthday": "27.04.1971",
+      "phone": 79101603279,
+      "email": "demin@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1715
+    },
+    {
+      "name": "Трифонова Мария Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "28.04.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мишина Юлия Александровна",
+      "position": "оператор по уходу за животными",
+      "birthday": "28.04.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Богомазова Жанна Алексеевна",
+      "position": "формовщик",
+      "birthday": "28.04.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еличева Светлана Ивановна",
+      "position": "оператор по уходу за животными",
+      "birthday": "29.04.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Троицкая Оксана Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "30.04.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Санин Александр Васильевич",
+      "position": "скотник ночной ",
+      "birthday": "30.04.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Барко Вера Георгиевна",
+      "position": "санитар ",
+      "birthday": "01.05.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лагутина Ольга Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "01.05.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Онищенко Лариса Сергеевна",
+      "position": "продавец-кассир ",
+      "birthday": "01.05.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мирзорахимова Ирина Александровна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "01.05.1999",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Смирнова Ольга Александровна",
+      "position": "специалист по снабжению ",
+      "birthday": "02.05.1991",
+      "phone": 79805870037,
+      "email": "smirnova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1705
+    },
+    {
+      "name": "Арутюнян Асмик Суриковна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "02.05.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Поляков Андрей Алексеевич",
+      "position": "начальник центра ",
+      "birthday": "03.05.1967",
+      "phone": 79056208255,
+      "email": "polyakov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1642
+    },
+    {
+      "name": "Васин Николай Иванович",
+      "position": "грузчик ",
+      "birthday": "03.05.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ганчева Екатерина Сергеевна",
+      "position": "инженер по охране окружающей среды ",
+      "birthday": "03.05.1982",
+      "phone": "",
+      "email": "gancheva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новикова Галина Олеговна",
+      "position": "заведующий складом ",
+      "birthday": "04.05.1967",
+      "phone": 79156900267,
+      "email": "novikova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1732
+    },
+    {
+      "name": "Николаец Татьяна Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "04.05.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бармоткин Иван Александрович",
+      "position": "водитель ",
+      "birthday": "04.05.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Николай Борисович",
+      "position": "слесарь по контрольно-измерительным приборам и автоматике",
+      "birthday": "04.05.1957",
+      "phone": 79051140842,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Левшина Наталья Емельяновна",
+      "position": "заместитель начальника комбината ",
+      "birthday": "05.05.1964",
+      "phone": 79509042888,
+      "email": "levshina@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1725
+    },
+    {
+      "name": "Плешков Сергей Васильевич",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "06.05.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чистикова Дарья Игоревна",
+      "position": "мастер ",
+      "birthday": "06.05.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Буй Валентина Ивановна",
+      "position": "оператор по приему опоросов",
+      "birthday": "07.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зыбина Татьяна Степановна",
+      "position": "оператор по уходу за животными",
+      "birthday": "07.05.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Заруднева Юлия Александровна",
+      "position": "кухонный работник ",
+      "birthday": "08.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Михеева Ольга Петровна",
+      "position": "оператор по уходу за животными",
+      "birthday": "08.05.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Герасимова Антонина Геннадьевна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "08.05.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Целикова Людмила Павловна",
+      "position": "старший бухгалтер ",
+      "birthday": "09.05.1960",
+      "phone": "",
+      "email": "celikova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1703
+    },
+    {
+      "name": "Углова Ирина Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "09.05.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новикова Светлана Александровна",
+      "position": "начальник участка ",
+      "birthday": "09.05.1975",
+      "phone": 79101615739,
+      "email": "novikova.s@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1747
+    },
+    {
+      "name": "Плавский Игорь Алексеевич",
+      "position": "штукатур-маляр",
+      "birthday": "10.05.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Левшин Николай Николаевич",
+      "position": "автомеханик ",
+      "birthday": "10.05.1964",
+      "phone": 79105815301,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ульянова Вера Владимировна",
+      "position": "оператор по выявлению свиней в охоте",
+      "birthday": "10.05.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еремеев Николай Александрович",
+      "position": "грузчик ",
+      "birthday": "10.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еписеева Любовь Васильевна",
+      "position": "подсобный рабочий ",
+      "birthday": "10.05.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Азаровский Александр Валериевич",
+      "position": "тракторист ",
+      "birthday": "10.05.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Пассажина Лариса Владимировна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "11.05.1959",
+      "phone": 79105566923,
+      "email": "passagina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1711
+    },
+    {
+      "name": "Валуев Николай Николаевич",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "11.05.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанова Ольга Александровна",
+      "position": "диспетчер ",
+      "birthday": "11.05.1984",
+      "phone": "",
+      "email": "stepanova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1713
+    },
+    {
+      "name": "Кузин Николай Васильевич",
+      "position": "тракторист ",
+      "birthday": "11.05.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бородачева Ольга Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "12.05.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сафонов Роман Евгеньевич",
+      "position": "оператор автомата по производству полуфабрикатов",
+      "birthday": "12.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Золотухина Юлия Анатольевна",
+      "position": "мастер участка ",
+      "birthday": "12.05.1982",
+      "phone": 79092608979,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Синицына Екатерина Сергеевна",
+      "position": "рабочая ",
+      "birthday": "13.05.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Елыжев Игорь Юрьевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "13.05.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Казакова Наталья Мирфаязовна",
+      "position": "подсобный рабочий ",
+      "birthday": "13.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Саможенков Дмитрий Александрович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "13.05.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новиков Дмитрий Андреевич",
+      "position": "обвальщик мяса ",
+      "birthday": "15.05.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Палладьев Кирилл Юрьевич",
+      "position": "подсобный рабочий ",
+      "birthday": "15.05.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мазуров Юрий Николаевич",
+      "position": "дезинфектор",
+      "birthday": "16.05.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Карева Валерия Николаевна",
+      "position": "заместитель начальника цеха ",
+      "birthday": "16.05.2006",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Соловьев Николай Николаевич",
+      "position": "тракторист ",
+      "birthday": "18.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козлова Ирина Анатольевна",
+      "position": "специалист ",
+      "birthday": "18.05.1983",
+      "phone": 79105802349,
+      "email": "arhivarius@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1631
+    },
+    {
+      "name": "Михайличенко Наталья Николаевна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "19.05.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Иванова Нина Владимировна",
+      "position": "кладовщик ",
+      "birthday": "19.05.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сигов Антон Петрович",
+      "position": "слесарь по контрольно-измерительным приборам и автоматике",
+      "birthday": "19.05.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бараненко Елена Николаевна",
+      "position": "повар",
+      "birthday": "21.05.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Амелина Валентина Владимировна",
+      "position": "кладовщик-маркировщик ",
+      "birthday": "21.05.1970",
+      "phone": "",
+      "email": "amelina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1656
+    },
+    {
+      "name": "Леонова Елена Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "22.05.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Семёнов Роман Юрьевич",
+      "position": "тракторист ",
+      "birthday": "22.05.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Матасов Сергей Николаевич",
+      "position": "электрогазосварщик",
+      "birthday": "24.05.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Буданов Владимир Иванович",
+      "position": "аппаратчик термической обработки колбасных изделий",
+      "birthday": "24.05.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лекомцев Сергей Сергеевич",
+      "position": "укладчик-упаковщик ",
+      "birthday": "24.05.1994",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зайчиков Владимир Александрович",
+      "position": "агроном ",
+      "birthday": "24.05.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Леухина Елена Викторовна",
+      "position": "оператор по уходу за животными",
+      "birthday": "25.05.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Иванова Ирина Сергеевна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "25.05.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Монахина Елена Николаевна",
+      "position": "телятница по уходу за телятами от 2-х до 4-х месяцев ",
+      "birthday": "25.05.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сигова Елена Александровна",
+      "position": "бухгалтер ",
+      "birthday": "29.05.1995",
+      "phone": "",
+      "email": "sigova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1710
+    },
+    {
+      "name": "Некрасова Юлия Сергеевна",
+      "position": "уборщик производственных помещений ",
+      "birthday": "29.05.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Евтеева Ирина Николаевна",
+      "position": "жиловщик ",
+      "birthday": "29.05.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Байгашкаева Светлана Николаевна",
+      "position": "кладовщик ",
+      "birthday": "29.05.1973",
+      "phone": 79105815304,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гагарина Татьяна Валерьевна",
+      "position": "диспетчер ",
+      "birthday": "29.05.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Комионко Леонид Юрьевич",
+      "position": "руководитель направления внешнего развития по инновациям ",
+      "birthday": "30.05.2002",
+      "phone": "",
+      "email": "leonid.komionko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фомин Александр Васильевич",
+      "position": "охранник ",
+      "birthday": "30.05.1958",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калиничев Юрий Александрович",
+      "position": "водитель ",
+      "birthday": "30.05.1966",
+      "phone": 79531843829,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Малакаева Татьяна Ивановна",
+      "position": "обработчик колбасных изделий",
+      "birthday": "30.05.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тейц Эльвира Валериевна",
+      "position": "помощник мастера ",
+      "birthday": "30.05.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гринфельд Виктория Валентиновна",
+      "position": "расфасовщик ",
+      "birthday": "31.05.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Федулов Алексей Александрович",
+      "position": "дезинфектор",
+      "birthday": "01.06.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кирякин Алексей Викторович",
+      "position": "скотник ночной ",
+      "birthday": "01.06.1999",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Аванесян Агаси Ашрафович",
+      "position": "токарь",
+      "birthday": "02.06.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юров Олег Николаевич",
+      "position": "охранник ",
+      "birthday": "03.06.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Левшина Марина Владимировна",
+      "position": "скотник по уходу за КРС заключительного откорма ",
+      "birthday": "03.06.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Любезнов Алексей Михайлович",
+      "position": "тракторист ",
+      "birthday": "03.06.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Данилова Елена Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "04.06.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Генералов Павел Валентинович",
+      "position": "плотник",
+      "birthday": "04.06.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Антонова Валентина Евгеньевна",
+      "position": "сметчик ",
+      "birthday": "04.06.1966",
+      "phone": 79109496318,
+      "email": "antonova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1639
+    },
+    {
+      "name": "Анисов Иван Викторович",
+      "position": "распиловщик мясопродуктов ",
+      "birthday": "04.06.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зотова Алёна Сергеевна",
+      "position": "обработчик мясных туш ",
+      "birthday": "04.06.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Михаил Александрович",
+      "position": "тракторист ",
+      "birthday": "04.06.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Губарев Вячеслав Михайлович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "05.06.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сухов Сергей Вячеславович",
+      "position": "охранник ",
+      "birthday": "06.06.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Палачева Инна Вячеславовна",
+      "position": "продавец-кассир ",
+      "birthday": "06.06.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Долматова Инна Вячеславовна",
+      "position": "продавец-кассир ",
+      "birthday": "06.06.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Болотов Александр Владимирович",
+      "position": "тракторист ",
+      "birthday": "06.06.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дропало Валерий Валерьевич (совм.)",
+      "position": "уборщица производственных и служебных помещений ",
+      "birthday": "08.06.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дропало Валерий Валерьевич",
+      "position": "перегонщик-мойщик ",
+      "birthday": "08.06.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Горбунов Владимир Михайлович",
+      "position": "тракторист ",
+      "birthday": "08.06.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ершов Евгений Петрович",
+      "position": "заместитель начальника службы ",
+      "birthday": "09.06.1984",
+      "phone": 79156901028,
+      "email": "ershov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Манжукова Анастасия Алексеевна",
+      "position": "специалист ",
+      "birthday": "09.06.1999",
+      "phone": 79105501009,
+      "email": "manzhukova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузнецова Ирина Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "09.06.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сосов Алексей Алексеевич",
+      "position": "заместитель начальника цеха ",
+      "birthday": "09.06.1983",
+      "phone": "",
+      "email": "sosov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1715
+    },
+    {
+      "name": "Большакова Олеся Леонидовна",
+      "position": "продавец-кассир ",
+      "birthday": "10.06.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Айзатулин Руслан Рашидович",
+      "position": "начальник станции ",
+      "birthday": "10.06.1985",
+      "phone": 79534412853,
+      "email": "ajzatulin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1717
+    },
+    {
+      "name": "Сизов Никита Васильевич",
+      "position": "водитель ",
+      "birthday": "10.06.2003",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Карасёв Юрий Михайлович",
+      "position": "оператор участка по переработке и утилизации отходов",
+      "birthday": "10.06.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Граур Дойна",
+      "position": "диспетчер ",
+      "birthday": "11.06.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернышев Константин Георгиевич",
+      "position": "тракторист ",
+      "birthday": "11.06.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Свистков Владимир Николаевич",
+      "position": "водитель ",
+      "birthday": "12.06.1966",
+      "phone": 79611480863,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Спередонов Сергей Сергеевич",
+      "position": "водитель ",
+      "birthday": "12.06.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вилкова Марина Александровна",
+      "position": "формовщик",
+      "birthday": "12.06.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миронов Юрий Геннадьевич",
+      "position": "боец скота ",
+      "birthday": "13.06.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Литвиненко Владимир Александрович",
+      "position": "тракторист ",
+      "birthday": "13.06.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Засимов Антон Сергеевич",
+      "position": "охранник ",
+      "birthday": "14.06.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Полуэктова Елена Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "14.06.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Орлова Любовь Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "14.06.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мельников Александр Игоревич",
+      "position": "водитель ",
+      "birthday": "14.06.1995",
+      "phone": 79509192093,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Остертах Валерий Владимирович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "15.06.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Серегин Михаил Станиславович",
+      "position": "охранник ",
+      "birthday": "17.06.1973",
+      "phone": 79531856552,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузин Алексей Альбертович",
+      "position": "электромонтер по эксплуатации распределительных сетей",
+      "birthday": "17.06.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Анохова Жанна Валерьевна",
+      "position": "жиловщик ",
+      "birthday": "17.06.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Климов Максим Иванович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "17.06.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Купрюшина Людмила Петровна",
+      "position": "кладовщик-маркировщик ",
+      "birthday": "18.06.1975",
+      "phone": "",
+      "email": "kupryushina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1656
+    },
+    {
+      "name": "Масютин Пётр Тимофеевич",
+      "position": "оператор пресса",
+      "birthday": "18.06.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шабалкина Любовь Анатольевна",
+      "position": "продавец-кассир ",
+      "birthday": "19.06.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Романов Алексей Васильевич",
+      "position": "водитель ",
+      "birthday": "19.06.1989",
+      "phone": 79030384441,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Титов Андрей Алексеевич",
+      "position": "скотник по уходу за КРС заключительного откорма ",
+      "birthday": "19.06.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фалеев Юрий Анатольевич",
+      "position": "тракторист ",
+      "birthday": "20.06.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Рыбина Надежда Ильинична",
+      "position": "лаборант ",
+      "birthday": "20.06.1991",
+      "phone": "",
+      "email": "rybina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вершинина Галина Павловна",
+      "position": "продавец-кассир ",
+      "birthday": "21.06.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Голикова Елена Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "21.06.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Полякова Елена Владимировна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "21.06.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Жалнин Евгений Анатольевич",
+      "position": "тракторист ",
+      "birthday": "21.06.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Саломасов Николай Николаевич",
+      "position": "водитель ",
+      "birthday": "22.06.1968",
+      "phone": 79509075987,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новиков Максим Викторович",
+      "position": "тракторист ",
+      "birthday": "22.06.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Алдошина Евгения Сергеевна",
+      "position": "кладовщик ",
+      "birthday": "23.06.1980",
+      "phone": "",
+      "email": "aldoshina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1733
+    },
+    {
+      "name": "Чулина Людмила Егоровна",
+      "position": "продавец-кассир ",
+      "birthday": "23.06.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Веденина Светлана Анатольевна",
+      "position": "продавец-кассир ",
+      "birthday": "24.06.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Семенова Екатерина Сергеевна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "24.06.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Грабецкая Елена Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "25.06.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мещеряков Игорь Александрович",
+      "position": "слесарь-сантехник",
+      "birthday": "25.06.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Михайлова Галина Анатольевна",
+      "position": "оператор по приему ночных опоросов",
+      "birthday": "25.06.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Федулова Наталья Анатольевна",
+      "position": "начальник отдела ",
+      "birthday": "26.06.1970",
+      "phone": 79531859205,
+      "email": "fedulova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1600
+    },
+    {
+      "name": "Фомина Елена Александровна",
+      "position": "охранник ",
+      "birthday": "26.06.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Алхимов Андрей Александрович",
+      "position": "охранник ",
+      "birthday": "27.06.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Расторгуева Жанна Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "27.06.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Романченко Александр Анатольевич",
+      "position": "водитель ",
+      "birthday": "27.06.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чембулатов Вадим Николаевич",
+      "position": "водитель ",
+      "birthday": "27.06.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Каровкина Алёна Петровна",
+      "position": "коммерческий директор ",
+      "birthday": "28.06.1982",
+      "phone": 79190700136,
+      "email": "karovkina@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1704
+    },
+    {
+      "name": "Иванников Сергей Михайлович",
+      "position": "специалист по пожарной безопасности,  ГО и ЧС ",
+      "birthday": "28.06.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Задникова Людмила Альбертовна",
+      "position": "охранник ",
+      "birthday": "28.06.1964",
+      "phone": 79539730369,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузнецов Александр Валентинович",
+      "position": "охранник ",
+      "birthday": "28.06.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Яковлев Виктор Владимирович",
+      "position": "водитель ",
+      "birthday": "28.06.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Энгельман Виталий Владимирович",
+      "position": "тракторист ",
+      "birthday": "29.06.1999",
+      "phone": 79534289384,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковалева Ирина Вячеславовна",
+      "position": "бухгалтер 1 категории ",
+      "birthday": "30.06.1970",
+      "phone": "",
+      "email": "kovaleva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1723
+    },
+    {
+      "name": "Селиверстова Мария Владимировна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "30.06.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Холина Любовь Васильевна",
+      "position": "кассир ",
+      "birthday": "30.06.1952",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Реброва Наталья Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "30.06.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Проскурин Андрей Николаевич",
+      "position": "тракторист ",
+      "birthday": "30.06.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бездников Дмитрий Александрович",
+      "position": "начальник комбината ",
+      "birthday": "01.07.1987",
+      "phone": "",
+      "email": "bezdnikov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тарасова Яна Викторовна",
+      "position": "специалист мониторинга ",
+      "birthday": "02.07.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Демичев Виктор Павлович",
+      "position": "охранник ",
+      "birthday": "03.07.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Иванова Елена Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "03.07.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Антонова Валентина Владимировна",
+      "position": "оператор по выявлению свиней в охоте",
+      "birthday": "03.07.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковач Елена Анатольевна",
+      "position": "оператор по уходу за животными",
+      "birthday": "03.07.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лусь Николай Игоревич",
+      "position": "слесарь-сантехник",
+      "birthday": "03.07.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Крулицкий Александр Михайлович",
+      "position": "рабочий по приемке добавок",
+      "birthday": "03.07.2004",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Илюшина Ольга Михайловна",
+      "position": "оператор по ветобработке",
+      "birthday": "04.07.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Анашенкова Светлана Федоровна",
+      "position": "доярка ",
+      "birthday": "04.07.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кривохижин Сергей Николаевич",
+      "position": "оператор пресса",
+      "birthday": "04.07.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Серикова Елена Александровна",
+      "position": "бухгалтер 1 категории ",
+      "birthday": "05.07.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Болотов Сергей Николаевич",
+      "position": "тракторист ",
+      "birthday": "05.07.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Власова Татьяна Викторовна",
+      "position": "креативный директор ",
+      "birthday": "06.07.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковальногова Юлия Владимировна",
+      "position": "лаборант ",
+      "birthday": "06.07.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миронова Елена Александровна",
+      "position": "нарезчик и упаковщик колбасных изделий ",
+      "birthday": "06.07.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ражев Николай Владимирович",
+      "position": "охранник ",
+      "birthday": "07.07.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петричка Владимир Николаевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "07.07.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Брилева Олеся Александровна",
+      "position": "бухгалтер-кладовщик ",
+      "birthday": "07.07.1983",
+      "phone": 79534327670,
+      "email": "brileva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1726
+    },
+    {
+      "name": "Степанов Дмитрий Олегович",
+      "position": "тракторист ",
+      "birthday": "07.07.1981",
+      "phone": 79509081198,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Майорова Любовь Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "08.07.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баранова Татьяна Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "08.07.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Матвеев Александр Владимирович",
+      "position": "водитель ",
+      "birthday": "08.07.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Илюхин Павел Борисович",
+      "position": "заместитель начальника цеха-старший агроном ",
+      "birthday": "08.07.1970",
+      "phone": 79534412855,
+      "email": "ilyuhin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1716
+    },
+    {
+      "name": "Качемазова Светлана Владимировна",
+      "position": "подсобный рабочий ",
+      "birthday": "09.07.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Окладников Сергей Николаевич",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "10.07.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гулиянц Аркадий Ервандович",
+      "position": "охранник ",
+      "birthday": "11.07.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Земенков Евгений Николаевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "11.07.1956",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Балакин Юрий Алексеевич",
+      "position": "водитель ",
+      "birthday": "12.07.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Баранова Ольга Александровна",
+      "position": "технолог ",
+      "birthday": "12.07.1974",
+      "phone": 79534412854,
+      "email": "baranova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1623
+    },
+    {
+      "name": "Курочкина Людмила Ивановна",
+      "position": "мастер ",
+      "birthday": "12.07.1960",
+      "phone": 79539541471,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Уфимцев Владимир Валерьевич",
+      "position": "начальник центра ",
+      "birthday": "12.07.1972",
+      "phone": "",
+      "email": "ufimcev@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Соченко Марина Сергеевна",
+      "position": "вахтер ",
+      "birthday": "13.07.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гуляев Александр Александрович",
+      "position": "техник по ремонту и обслуживанию торгового оборудования ",
+      "birthday": "13.07.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьмин Егор Андреевич",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "13.07.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Грезова Людмила Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "16.07.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сидорова Дарья Сергеевна",
+      "position": "оператор по приему опоросов",
+      "birthday": "16.07.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Русакова Надежда Николаевна",
+      "position": "аппаратчик термической обработки субпродуктов ",
+      "birthday": "16.07.1960",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Теличан Андрей Евгеньевич",
+      "position": "охранник ",
+      "birthday": "17.07.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Базорова Елена Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "17.07.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Еремина Людмила Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "18.07.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Жариков Александр Федорович",
+      "position": "водитель ",
+      "birthday": "18.07.1959",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Брагина Ольга Александровна",
+      "position": "оператор по приему ночных опоросов",
+      "birthday": "18.07.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моничева Надежда Борисовна",
+      "position": "маркировщик ",
+      "birthday": "18.07.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Рожков Сергей Иванович",
+      "position": "слесарь-ремонтник",
+      "birthday": "18.07.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузина Светлана Владимировна",
+      "position": "телятница по уходу за телятами от 0 до 2-х месяцев ",
+      "birthday": "19.07.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лазарев Александр Михайлович",
+      "position": "специалист по охране труда ",
+      "birthday": "19.07.1964",
+      "phone": "",
+      "email": "lazarev@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1742
+    },
+    {
+      "name": "Назаренко Алексей Сергеевич",
+      "position": "начальник отдела ",
+      "birthday": "20.07.1989",
+      "phone": 79105827739,
+      "email": "nazarenko@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1605
+    },
+    {
+      "name": "Олейников Николай Николаевич",
+      "position": "укладчик-упаковщик ",
+      "birthday": "20.07.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гугучкин Алексей Игоревич",
+      "position": "каменщик",
+      "birthday": "21.07.1993",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лобова Светлана Юрьевна",
+      "position": "жиловщик ",
+      "birthday": "21.07.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Алиханян Мкртич Ашотович",
+      "position": "слесарь-ремонтник",
+      "birthday": "21.07.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вопилина Екатерина Сергеевна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "22.07.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Семенова Инна Игоревна",
+      "position": "продавец-кассир ",
+      "birthday": "22.07.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петухов Виталий Анатольевич",
+      "position": "тракторист ",
+      "birthday": "22.07.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кочаров Александр Анатольевич",
+      "position": "слесарь по ремонту автомобилей",
+      "birthday": "23.07.2003",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Боровков Анатолий Викторович",
+      "position": "слесарь по ремонту автомобилей",
+      "birthday": "23.07.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Канашкин Дмитрий Сергеевич",
+      "position": "боец скота ",
+      "birthday": "23.07.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тюренкова Любовь Анатольевна",
+      "position": "оператор участка по переработке и утилизации отходов",
+      "birthday": "23.07.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шумская Марина Викторовна",
+      "position": "главный экономист ",
+      "birthday": "24.07.1978",
+      "phone": "",
+      "email": "shumskaya@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1724
+    },
+    {
+      "name": "Роковецкий Вячеслав Сергеевич",
+      "position": "водитель ",
+      "birthday": "24.07.1983",
+      "phone": 79539644403,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бологова Наталия Вячеславовна",
+      "position": "продавец-кассир ",
+      "birthday": "25.07.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Семенова Юлия Борисовна",
+      "position": "продавец-кассир ",
+      "birthday": "25.07.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Нечаева Екатерина Николаевна",
+      "position": "телятница по уходу за телятами от 0 до 2-х месяцев ",
+      "birthday": "26.07.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Исаева Наталья Викторовна",
+      "position": "заведующий нефтехозяйством ",
+      "birthday": "27.07.1978",
+      "phone": 79107039416,
+      "email": "isaeva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1652
+    },
+    {
+      "name": "Шарай Татьяна Васильевна",
+      "position": "продавец-кассир ",
+      "birthday": "28.07.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калинич Марина Николаевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "28.07.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Александрова Елена Александровна",
+      "position": "охранник ",
+      "birthday": "29.07.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Острикова Любовь Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "29.07.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Плужникова Надежда Александровна",
+      "position": "охранник ",
+      "birthday": "01.08.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сухов Олег Николаевич",
+      "position": "водитель ",
+      "birthday": "01.08.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Козлова Ирина Александровна",
+      "position": "фаршемесильщик ",
+      "birthday": "01.08.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Аксенов Александр Анатольевич",
+      "position": "боец скота ",
+      "birthday": "01.08.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кулешов Виталий Викторович",
+      "position": "грузчик ",
+      "birthday": "01.08.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Пивкин Андрей Иванович",
+      "position": "плотник",
+      "birthday": "02.08.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Язев Андрей Николаевич",
+      "position": "слесарь-сантехник",
+      "birthday": "02.08.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Хакимова Танзиля Таузиховна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "03.08.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Скачков Михаил Андреевич",
+      "position": "супервайзер ",
+      "birthday": "03.08.1991",
+      "phone": 79156900425,
+      "email": "skachkov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чуманова Галина Иосифовна",
+      "position": "продавец-кассир ",
+      "birthday": "03.08.1960",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Форостянко Наталья Викторовна",
+      "position": "руководитель проекта по автоматизации учета заработной платы ",
+      "birthday": "04.08.1976",
+      "phone": "",
+      "email": "forostyanko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тарасов Михаил Николаевич",
+      "position": "инженер-механик ",
+      "birthday": "04.08.1992",
+      "phone": 79531858861,
+      "email": "tarasov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1714
+    },
+    {
+      "name": "Орлов Сергей Валериевич",
+      "position": "охранник ",
+      "birthday": "06.08.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Голиней Денис Васильевич",
+      "position": "водитель ",
+      "birthday": "06.08.1989",
+      "phone": 79509152238,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Горбачева Светлана Николаевна",
+      "position": "заведующий складом ",
+      "birthday": "06.08.1970",
+      "phone": 79029033503,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Харьков Александр Викторович",
+      "position": "водитель ",
+      "birthday": "07.08.1965",
+      "phone": 79807291706,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Обезьянин Василий Дмитриевич",
+      "position": "инженер-механик ",
+      "birthday": "07.08.1987",
+      "phone": 79509200879,
+      "email": "obezyanin@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1714
+    },
+    {
+      "name": "Лавров Сергей Александрович",
+      "position": "тракторист ",
+      "birthday": "07.08.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Межунц Светлана Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "08.08.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дергачёв Александр Вячеславович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "08.08.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ласточкина Оксана Алексеевна",
+      "position": "помощник начальника участка ",
+      "birthday": "09.08.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сорокин Алексей Игоревич",
+      "position": "формовщик колбасных изделий",
+      "birthday": "09.08.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лякишева Ольга Валериевна",
+      "position": "маркировщик ",
+      "birthday": "09.08.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Радченко Николай",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "09.08.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гирина Любовь Ивановна",
+      "position": "скотник по уходу за коровами ",
+      "birthday": "09.08.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кобзева Татьяна Михайловна",
+      "position": "нарезчик и упаковщик колбасных изделий ",
+      "birthday": "10.08.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Березин Александр Андреевич",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "10.08.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Никихин Владимир Викторович",
+      "position": "охранник ",
+      "birthday": "11.08.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ивановский Вячеслав Григорьевич",
+      "position": "тракторист ",
+      "birthday": "11.08.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сахарова Светлана Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "12.08.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Правоторова Альбина Алексеевна",
+      "position": "ветеринарный врач 1 категории ",
+      "birthday": "12.08.1966",
+      "phone": 79539578875,
+      "email": "pravotorova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Карев Николай Сергеевич",
+      "position": "обвальщик мяса ",
+      "birthday": "12.08.1995",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Радостева Татьяна Владимировна",
+      "position": "кладовщик ",
+      "birthday": "13.08.1973",
+      "phone": "",
+      "email": "radosteva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Прокопьев Вячеслав Викторович",
+      "position": "водитель ",
+      "birthday": "14.08.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кокотко Светлана Борисовна",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "15.08.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шмакова Ирина Александровна",
+      "position": "мастер ",
+      "birthday": "15.08.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Крюгер Анастасия Владимировна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "16.08.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бакулин Дмитрий Вячеславович",
+      "position": "слесарь-сантехник",
+      "birthday": "16.08.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Егоров Даниил Павлович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "16.08.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Калиничева Любовь Николаевна",
+      "position": "начальник отдела ",
+      "birthday": "17.08.1972",
+      "phone": 79539646052,
+      "email": "kalinicheva@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1629
+    },
+    {
+      "name": "Казаков Виктор Владимирович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "19.08.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Захарова Любовь Александровна",
+      "position": "оператор по уходу за животными",
+      "birthday": "19.08.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Наумкин Иван Евгеньевич",
+      "position": "обвальщик мяса ",
+      "birthday": "19.08.1980",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Коровин Сергей Иванович",
+      "position": "водитель ",
+      "birthday": "20.08.1969",
+      "phone": 79612654893,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Человечкова Елена Николаевна",
+      "position": "бухгалтер-кладовщик ",
+      "birthday": "20.08.1987",
+      "phone": "",
+      "email": "chelovechkova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1726
+    },
+    {
+      "name": "Кожухов Василий Евгеньевич",
+      "position": "боец скота ",
+      "birthday": "21.08.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бузько Андрей Николаевич",
+      "position": "главный зоотехник-селекционер ",
+      "birthday": "22.08.1971",
+      "phone": 79101606397,
+      "email": "buzko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1616
+    },
+    {
+      "name": "Дропало Валерий Николаевич",
+      "position": "тракторист ",
+      "birthday": "22.08.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тимофеева Татьяна Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "23.08.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Васильева Галина Юрьевна",
+      "position": "оператор по ветобработке",
+      "birthday": "24.08.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковалевская Анна Ивановна",
+      "position": "бухгалтер 1 категории ",
+      "birthday": "25.08.1987",
+      "phone": "",
+      "email": "kovalevskaya@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1622
+    },
+    {
+      "name": "Кузнецов Анатолий Васильевич",
+      "position": "водитель ",
+      "birthday": "25.08.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Плотников Андрей Геннадьевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "25.08.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лусь Игорь Николаевич",
+      "position": "охранник ",
+      "birthday": "26.08.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Харьков Александр Александрович",
+      "position": "водитель ",
+      "birthday": "27.08.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лимонов Алексей Владимирович",
+      "position": "тракторист ",
+      "birthday": "27.08.1972",
+      "phone": 79509220263,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ласточкин Сергей Сергеевич",
+      "position": "боец скота ",
+      "birthday": "28.08.1986",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бурмистрова Светлана Александровна",
+      "position": "лаборант-заквасчик ",
+      "birthday": "29.08.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Корнеев Александр Сергеевич",
+      "position": "агроном 2 категории ",
+      "birthday": "29.08.1964",
+      "phone": 79101500499,
+      "email": "korneev@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Корепин Вячеслав Владимирович",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "29.08.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сошнев Виктор Владимирович",
+      "position": "начальник службы ",
+      "birthday": "30.08.1984",
+      "phone": 79156901018,
+      "email": "soshnev@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1728
+    },
+    {
+      "name": "Архипкина Ирина Иосифовна",
+      "position": "заведующий столовой ",
+      "birthday": "31.08.1970",
+      "phone": 79101603283,
+      "email": "stolyarenko@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1727
+    },
+    {
+      "name": "Мельникова Елена Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "31.08.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Китов Сергей Леонидович",
+      "position": "оператор участка по переработке и утилизации отходов",
+      "birthday": "31.08.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новикова Екатерина Вячеславовна",
+      "position": "продавец-кассир ",
+      "birthday": "01.09.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мирзорахимова Наталья Игоревна",
+      "position": "оператор по перегону",
+      "birthday": "01.09.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шлипкина Юлия Владимировна",
+      "position": "финансист ",
+      "birthday": "03.09.1977",
+      "phone": "",
+      "email": "shlipkina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1724
+    },
+    {
+      "name": "Соложенцева Светлана Витальевна",
+      "position": "продавец-кассир ",
+      "birthday": "03.09.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мосолов Владимир Игоревич",
+      "position": "грузчик ",
+      "birthday": "04.09.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волков Роман Александрович",
+      "position": "начальник смены ",
+      "birthday": "05.09.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ефимова Вера Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "07.09.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Амелин Геннадий Александрович",
+      "position": "оператор автоматической линии производства молочных продуктов",
+      "birthday": "07.09.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кирюшкина Лариса Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "08.09.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кобзев Дмитрий Евгеньевич",
+      "position": "водитель ",
+      "birthday": "08.09.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дробжева Лариса Николаевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "08.09.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Прыгунов Игорь Владимирович",
+      "position": "электрогазосварщик",
+      "birthday": "09.09.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Полякова Татьяна Анатольевна",
+      "position": "специалист по снабжению ",
+      "birthday": "10.09.1975",
+      "phone": 79105800867,
+      "email": "polyakova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1632
+    },
+    {
+      "name": "Илюхина Анна Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "10.09.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Стрельников Александр Сергеевич",
+      "position": "дезинфектор",
+      "birthday": "10.09.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Скубыра Елена Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "11.09.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тимонина Анна Владимировна",
+      "position": "экономист 1 категории ",
+      "birthday": "12.09.1986",
+      "phone": 79190716850,
+      "email": "timonina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1724
+    },
+    {
+      "name": "Карпачев Сергей Александрович",
+      "position": "охранник ",
+      "birthday": "12.09.1956",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Никишин Вадим Юрьевич",
+      "position": "водитель ",
+      "birthday": "12.09.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Демин Андрей Алексеевич",
+      "position": "тракторист ",
+      "birthday": "13.09.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Евтеев Сергей Викторович",
+      "position": "тракторист ",
+      "birthday": "13.09.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Власов Сергей Владимирович",
+      "position": "заместитель генерального директора ",
+      "birthday": "14.09.1984",
+      "phone": 79100771571,
+      "email": "vlasov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1708
+    },
+    {
+      "name": "Чекмазова Галина Васильевна",
+      "position": "продавец-кассир ",
+      "birthday": "15.09.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Жарова Лидия Николаевна",
+      "position": "оператор по уходу за холостыми свиноматками",
+      "birthday": "15.09.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Харьков Сергей Анатольевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "16.09.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бергер Наталья Андреевна",
+      "position": "бухгалтер ",
+      "birthday": "18.09.1988",
+      "phone": "",
+      "email": "berger@lazarevor.u",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дергачева Наталья Александровна",
+      "position": "доярка ",
+      "birthday": "18.09.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Корчагин Вадим",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "18.09.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сергеев Юрий Михайлович",
+      "position": "оператор участка по переработке и утилизации отходов",
+      "birthday": "18.09.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Горчакова Алена Павловна",
+      "position": "главный ветеринарный врач ",
+      "birthday": "19.09.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": 1616
+    },
+    {
+      "name": "Воеводин Андрей Владимирович",
+      "position": "оператор автомата по производству полуфабрикатов",
+      "birthday": "19.09.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Карев Сергей Николаевич",
+      "position": "водитель ",
+      "birthday": "20.09.1962",
+      "phone": 79509167891,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Фомичев Алексей Викторович",
+      "position": "дезинфектор",
+      "birthday": "20.09.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Панов Виктор Иванович",
+      "position": "начальник участка ",
+      "birthday": "20.09.1959",
+      "phone": 79101647610,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степанов Сергей Александрович",
+      "position": "слесарь-сантехник",
+      "birthday": "21.09.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шейн Наталья Ивановна",
+      "position": "телятница по уходу за телятами от 0 до 2-х месяцев ",
+      "birthday": "21.09.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петрова Екатерина Андреевна",
+      "position": "менеджер проекта ",
+      "birthday": "22.09.1980",
+      "phone": 79207731131,
+      "email": "petrova.e@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сметанин Сергей Анатолиевич",
+      "position": "машинист насосных установок",
+      "birthday": "22.09.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бармин Андрей Юрьевич",
+      "position": "тракторист ",
+      "birthday": "22.09.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Подшибякина Антонина Алексеевна",
+      "position": "ветеринарный врач ",
+      "birthday": "23.09.2002",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бородкин Алексей Николаевич",
+      "position": "охранник ",
+      "birthday": "23.09.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Печникова Елена Ивановна",
+      "position": "охранник ",
+      "birthday": "23.09.1961",
+      "phone": 79101632610,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Киевский Анатолий Андреевич",
+      "position": "грузчик ",
+      "birthday": "24.09.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Трошкина Виктория Владимировна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "26.09.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бородкин Михаил Тихонович",
+      "position": "водитель ",
+      "birthday": "26.09.1958",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зайцева Юлия Юрьевна",
+      "position": "специалист по снабжению ",
+      "birthday": "27.09.1982",
+      "phone": 79101600035,
+      "email": "zayceva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1632
+    },
+    {
+      "name": "Гатарыч Оксана Евгеньевна",
+      "position": "продавец-кассир ",
+      "birthday": "29.09.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Морозова Наталья Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "29.09.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мусатова Любовь Владимировна",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "29.09.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тараканов Сергей Николаевич",
+      "position": "тракторист ",
+      "birthday": "29.09.1987",
+      "phone": 79030366671,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волчкова Вера Анатольевна",
+      "position": "супервайзер ",
+      "birthday": "30.09.1975",
+      "phone": 79109404558,
+      "email": "volchkova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ильина Полина Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "30.09.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сорокина Надежда Николаевна",
+      "position": "формовщик",
+      "birthday": "30.09.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петроченко Нина Ивановна",
+      "position": "начальник станции ",
+      "birthday": "01.10.1952",
+      "phone": 79531982476,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Митрошкин Иван Владимирович",
+      "position": "слесарь-ремонтник",
+      "birthday": "02.10.1989",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ковач Николай Иванович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "02.10.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Михеева Оксана Сергеевна",
+      "position": "специалист по закупкам ",
+      "birthday": "03.10.1988",
+      "phone": 79107001046,
+      "email": "miheeva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1638
+    },
+    {
+      "name": "Федулов Валерий Александрович",
+      "position": "водитель ",
+      "birthday": "03.10.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юричев Виктор Николаевич",
+      "position": "инженер-электрик ",
+      "birthday": "03.10.1981",
+      "phone": 79207586897,
+      "email": "yurichev@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1618
+    },
+    {
+      "name": "Фёдоров Александр Вячеславович",
+      "position": "грузчик ",
+      "birthday": "06.10.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моргунов Андрей Валерьевич",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "06.10.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Малеев Роман Сергеевич",
+      "position": "охранник ",
+      "birthday": "07.10.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Власов Сергей Александрович",
+      "position": "тракторист ",
+      "birthday": "07.10.1965",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Балакин Сергей Викторович",
+      "position": "начальник парка ",
+      "birthday": "08.10.1979",
+      "phone": 79534412859,
+      "email": "balakin@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1714
+    },
+    {
+      "name": "Гычка Виктор Николаевич",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "08.10.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Хныченков Сергей Витальевич",
+      "position": "оператор котельной",
+      "birthday": "08.10.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тихонов Сергей Александрович",
+      "position": "слесарь-сантехник",
+      "birthday": "09.10.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Абрамов Сергей Александрович",
+      "position": "специалист технической поддержки ",
+      "birthday": "10.10.1975",
+      "phone": "",
+      "email": "abramov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1661
+    },
+    {
+      "name": "Аносов Алексей Владимирович",
+      "position": "водитель ",
+      "birthday": "10.10.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Некрасов Алексей Григорьевич",
+      "position": "тракторист ",
+      "birthday": "10.10.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Овечкин Александр Иванович",
+      "position": "тракторист ",
+      "birthday": "10.10.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Елагин Сергей Юрьевич",
+      "position": "аппаратчик обработки зерна зерноочистительного комплекса",
+      "birthday": "11.10.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петрова Лидия Васильевна",
+      "position": "начальник цеха ",
+      "birthday": "11.10.1955",
+      "phone": 79531959075,
+      "email": "petrova@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1603
+    },
+    {
+      "name": "Пристягина Людмила Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "12.10.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Королева Маргарита Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "13.10.1960",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Миленкина Надежда Геннадьевна",
+      "position": "заведующий лабораторией ",
+      "birthday": "14.10.1986",
+      "phone": 79534412850,
+      "email": "milenkina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1647
+    },
+    {
+      "name": "Куликова Оксана Гивиевна",
+      "position": "специалист по кадрам ",
+      "birthday": "14.10.1991",
+      "phone": "",
+      "email": "kulikova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1665
+    },
+    {
+      "name": "Соломатин Михаил Вячеславович",
+      "position": "рабочий склада ",
+      "birthday": "15.10.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бежашвили Дмитрий Генадиевич",
+      "position": "охранник ",
+      "birthday": "16.10.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моисеева Оксана Васильевна",
+      "position": "продавец-кассир ",
+      "birthday": "16.10.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Галкина Людмила Михайловна",
+      "position": "оператор по ветобработке",
+      "birthday": "16.10.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мартынова Ольга Александровна",
+      "position": "рабочий по изготовлению и фасовке продукции ",
+      "birthday": "16.10.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Володина Наталья Владимировна",
+      "position": "начальник участка ",
+      "birthday": "17.10.1963",
+      "phone": 79531972260,
+      "email": "volodina@lazarevo.ru",
+      "supervisor": true,
+      "phone2": ""
+    },
+    {
+      "name": "Крюкова Евгения Николаевна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "18.10.1966",
+      "phone": "",
+      "email": "kryukova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1601
+    },
+    {
+      "name": "Орлов Даниил Дмитриевич",
+      "position": "охранник ",
+      "birthday": "18.10.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Целиков Николай Владимирович",
+      "position": "начальник службы ",
+      "birthday": "18.10.1956",
+      "phone": 79056212675,
+      "email": "tselikov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1624
+    },
+    {
+      "name": "Мирошин Александр Викторович",
+      "position": "водитель ",
+      "birthday": "18.10.1966",
+      "phone": 79065334219,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Курносов Сергей Владимирович",
+      "position": "ведущий инженер-механик ",
+      "birthday": "18.10.1981",
+      "phone": 79156900356,
+      "email": "kurnosov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1621
+    },
+    {
+      "name": "Вытягова Мария Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "19.10.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гирин Юрий Владимирович",
+      "position": "мойщик транспортных средств",
+      "birthday": "19.10.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Демина Елена Федоровна",
+      "position": "агроном-семеновод ",
+      "birthday": "19.10.1975",
+      "phone": 79156813269,
+      "email": "demina.e@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Королев Сергей Николаевич",
+      "position": "старший охранник ",
+      "birthday": "20.10.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лялина Елена Анатольевна",
+      "position": "продавец-кассир ",
+      "birthday": "21.10.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волченкова Ольга Антоновна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "21.10.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Герасимов Владимир Викторович",
+      "position": "грузчик ",
+      "birthday": "21.10.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юричев Николай Викторович",
+      "position": "тракторист ",
+      "birthday": "21.10.1956",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Михайлов Александр Геннадьевич",
+      "position": "охранник ",
+      "birthday": "23.10.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Яковлева Татьяна Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "23.10.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кулешова Оксана Викторовна",
+      "position": "оператор по ветобработке",
+      "birthday": "23.10.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Исаева Наталья Владимировна",
+      "position": "изготовитель натуральной колбасной оболочки ",
+      "birthday": "23.10.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Рогова Ирина Михайловна",
+      "position": "оператор по приему ночных опоросов",
+      "birthday": "24.10.1958",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Молчанова Наталья Игоревна",
+      "position": "лаборант ",
+      "birthday": "26.10.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Трусов Роман Викторович",
+      "position": "охранник ",
+      "birthday": "27.10.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сорокина Елена Михайловна",
+      "position": "продавец-кассир ",
+      "birthday": "27.10.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сентюрина Галина Васильевна",
+      "position": "продавец-кассир ",
+      "birthday": "28.10.1961",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузнецов Станислав Александрович",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "28.10.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шейгец Ольга Васильевна",
+      "position": "кладовщик ",
+      "birthday": "29.10.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Балабаш Людмила Львовна",
+      "position": "продавец-кассир ",
+      "birthday": "31.10.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ворожцов Сергей Константинович",
+      "position": "электрогазосварщик",
+      "birthday": "01.11.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Руснак Юрий Владимирович",
+      "position": "слесарь-сантехник",
+      "birthday": "01.11.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Коваленко Александр Анатольевич",
+      "position": "охранник ",
+      "birthday": "02.11.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сухова Марина Викторовна",
+      "position": "ветоператор ",
+      "birthday": "02.11.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Купрюшин Александр Дмитриевич",
+      "position": "тракторист ",
+      "birthday": "02.11.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Александрович Наталья Владимировна",
+      "position": "старшая рабочая ",
+      "birthday": "03.11.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Рожков Анатолий Иванович",
+      "position": "тракторист ",
+      "birthday": "03.11.1963",
+      "phone": 79632286771,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Колетвинова Тамара Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "04.11.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юрушкина Марина Васильевна",
+      "position": "кладовщик ",
+      "birthday": "05.11.1965",
+      "phone": 79509200877,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чуриков Михаил Сергеевич",
+      "position": "водитель ",
+      "birthday": "06.11.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Михеев Владимир Алексеевич",
+      "position": "механик ",
+      "birthday": "06.11.1975",
+      "phone": 79107040915,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лазарева Александра Александровна",
+      "position": "специалист ",
+      "birthday": "07.11.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Заикина Светлана Николаевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "07.11.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Моисеева Наталия Владиславовна",
+      "position": "продавец-кассир ",
+      "birthday": "08.11.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Алхимова Надежда Николаевна",
+      "position": "охранник ",
+      "birthday": "09.11.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сидоров Сергей Евгеньевич",
+      "position": "старший менеджер по снабжению ",
+      "birthday": "10.11.1965",
+      "phone": 79107040844,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кобызь Оксана Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "10.11.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Карташов Геннадий Владимирович",
+      "position": "слесарь-сантехник",
+      "birthday": "10.11.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Клюцев Сергей Сергеевич",
+      "position": "слесарь",
+      "birthday": "10.11.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Шнейдер Ирина Викторовна",
+      "position": "бухгалтер ",
+      "birthday": "11.11.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лебедкина Оксана Станиславовна",
+      "position": "уборщик производственных помещений ",
+      "birthday": "11.11.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Петрашина Жанна Викторовна",
+      "position": "специалист ",
+      "birthday": "11.11.1974",
+      "phone": "",
+      "email": "petrashina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1622
+    },
+    {
+      "name": "Лобов Сергей Юрьевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "11.11.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Аванесян Оксана Агасиевна",
+      "position": "расфасовщик мясопродуктов",
+      "birthday": "12.11.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Беркутова Ирина Александровна",
+      "position": "главный бухгалтер ",
+      "birthday": "13.11.1976",
+      "phone": "",
+      "email": "berkutova@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1766
+    },
+    {
+      "name": "Саримсаков Ринат Кадыргалиевич",
+      "position": "слесарь-ремонтник",
+      "birthday": "13.11.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чалых Дмитрий Николаевич",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "13.11.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Савкина Людмила Ивановна",
+      "position": "продавец-кассир ",
+      "birthday": "14.11.1964",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Новикова Наталья Александровна",
+      "position": "продавец-кассир ",
+      "birthday": "15.11.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Агапова Алена Львовна",
+      "position": "нарезчик и упаковщик колбасных изделий ",
+      "birthday": "15.11.1990",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мельникова Ольга Вячеславовна",
+      "position": "бухгалтер-кассир ",
+      "birthday": "16.11.1974",
+      "phone": 79531944292,
+      "email": "kassa@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1702
+    },
+    {
+      "name": "Кондратьев Кирилл Владимирович",
+      "position": "водитель ",
+      "birthday": "16.11.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Засыпкин Дмитрий Олегович",
+      "position": "электрогазосварщик",
+      "birthday": "16.11.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Торопов Евгений Евгеньевич",
+      "position": "аппаратчик обработки зерна зерноочистительного комплекса",
+      "birthday": "16.11.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернышев Юрий Константинович",
+      "position": "водитель ",
+      "birthday": "17.11.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьмич Галина Петровна",
+      "position": "рабочий по изготовлению и фасовке продукции ",
+      "birthday": "17.11.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ильин Евгений Евгеньевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "17.11.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Габрелян Галина Сергеевна",
+      "position": "продавец-кассир ",
+      "birthday": "18.11.1976",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Богомолов Сергей Александрович",
+      "position": "водитель ",
+      "birthday": "18.11.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Санина Алла Александровна",
+      "position": "доярка ",
+      "birthday": "18.11.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Дрынина Елена Викторовна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "19.11.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернышева Светлана Валентиновна",
+      "position": "составитель фарша",
+      "birthday": "19.11.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Холодова Наталья Григорьевна",
+      "position": "продавец-кассир ",
+      "birthday": "20.11.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Коровушкина Галина Владимировна",
+      "position": "диспетчер ",
+      "birthday": "20.11.1983",
+      "phone": "",
+      "email": "korovushkina@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1718
+    },
+    {
+      "name": "Харькова Светлана Сергеевна",
+      "position": "формовщик колбасных изделий",
+      "birthday": "20.11.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Вопилин Олег Николаевич",
+      "position": "тракторист ",
+      "birthday": "20.11.1982",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузнецова Наталия Владимировна",
+      "position": "заведующий канцелярией ",
+      "birthday": "20.11.1968",
+      "phone": 79105500072,
+      "email": "kuznetsova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1767
+    },
+    {
+      "name": "Минаева Марина Юрьевна",
+      "position": "продавец-кассир ",
+      "birthday": "21.11.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ермакова Елена Алексеевна",
+      "position": "бухгалтер 2 категории ",
+      "birthday": "22.11.1962",
+      "phone": 79107040075,
+      "email": "ermakova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1711
+    },
+    {
+      "name": "Барыхин Михаил Николаевич",
+      "position": "торговый представитель ",
+      "birthday": "22.11.1995",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Жужлева Елена Николаевна",
+      "position": "старший диспетчер ",
+      "birthday": "22.11.1974",
+      "phone": 79101603273,
+      "email": "zhuzhleva@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1771
+    },
+    {
+      "name": "Карченкова Елена Александровна",
+      "position": "оператор стиральных машин ",
+      "birthday": "23.11.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Зайцев Евгений Анатольевич",
+      "position": "охранник ",
+      "birthday": "23.11.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Иванников Илья Дмитриевич",
+      "position": "грузчик ",
+      "birthday": "23.11.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кулагина Анна Валерьевна",
+      "position": "торговый представитель ",
+      "birthday": "24.11.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кургузова Вера Николаевна",
+      "position": "продавец-кассир ",
+      "birthday": "24.11.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Колпаков Алексей Александрович",
+      "position": "инженер ",
+      "birthday": "24.11.1988",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сироткин Евгений Владимирович",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "24.11.2001",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Засимов Дмитрий Юрьевич",
+      "position": "слесарь-сантехник",
+      "birthday": "25.11.1987",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Крюгер Сергей Генрихович",
+      "position": "укладчик-упаковщик ",
+      "birthday": "25.11.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сидоркина Татьяна Михайловна",
+      "position": "охранник ",
+      "birthday": "26.11.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кейбис Тамара Викторовна",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "26.11.1985",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Степин Павел Юрьевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "26.11.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гулидов Валерий Егорович",
+      "position": "водитель ",
+      "birthday": "27.11.1957",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Назарова Людмила Алексеевна",
+      "position": "продавец-кассир ",
+      "birthday": "28.11.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Савесков Олег Владимирович",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "29.11.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ерназаров Марсель Эркинович",
+      "position": "старший охранник ",
+      "birthday": "30.11.1991",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кочаров Анатолий Федорович",
+      "position": "водитель ",
+      "birthday": "01.12.1962",
+      "phone": 79539689178,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Токарева Любовь Александровна",
+      "position": "начальник свинокомплекса ",
+      "birthday": "01.12.1960",
+      "phone": 79509200875,
+      "email": "tokareva@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1706
+    },
+    {
+      "name": "Исматиллаев Равшанбек Абдугоппорович",
+      "position": "грузчик ",
+      "birthday": "01.12.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Филимонова Наталья Владимировна",
+      "position": "продавец-кассир ",
+      "birthday": "02.12.1971",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чернякова Татьяна Евгеньевна",
+      "position": "изготовитель натуральной колбасной оболочки ",
+      "birthday": "02.12.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Волков Сергей Владимирович",
+      "position": "агроном 1 категории ",
+      "birthday": "02.12.1982",
+      "phone": "",
+      "email": "volkov@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1659
+    },
+    {
+      "name": "Ефремков Николай Александрович",
+      "position": "тракторист ",
+      "birthday": "02.12.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кислёнков Андрей Евгеньевич",
+      "position": "оператор цеха по приготовлению кормов",
+      "birthday": "02.12.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Прыгунов Алексей Евгеньевич",
+      "position": "тракторист ",
+      "birthday": "04.12.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Корнец Наталья Геннадьевна",
+      "position": "продавец-кассир ",
+      "birthday": "05.12.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тарасова Людмила Владимировна",
+      "position": "составитель фарша",
+      "birthday": "05.12.1983",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Середюк Марина Константиновна",
+      "position": "продавец-кассир ",
+      "birthday": "06.12.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Желтова Марина Викторовна",
+      "position": "продавец-кассир ",
+      "birthday": "06.12.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Пустарнакова Людмила Анатольевна",
+      "position": "оператор по приему опоросов",
+      "birthday": "06.12.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Тачаев Николай Михайлович",
+      "position": "слесарь-ремонтник",
+      "birthday": "07.12.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сухов Роман Олегович",
+      "position": "слесарь",
+      "birthday": "07.12.1998",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Чугунова Юлия Анатольевна",
+      "position": "кладовщик ",
+      "birthday": "07.12.1978",
+      "phone": "",
+      "email": "nazarova@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1750
+    },
+    {
+      "name": "Язев Алексей Андреевич",
+      "position": "электромонтер по ремонту и обслуживанию электрооборудования",
+      "birthday": "08.12.1997",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Андреев Валерий Витальевич",
+      "position": "аппаратчик термической обработки колбасных изделий",
+      "birthday": "08.12.1973",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Пахомов Юрий Егорович",
+      "position": "тракторист ",
+      "birthday": "08.12.1961",
+      "phone": 79092645323,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Базанов Вячеслав Викторович",
+      "position": "начальник службы ",
+      "birthday": "08.12.1980",
+      "phone": 79101500693,
+      "email": "bazanov@lazarevo.ru",
+      "supervisor": true,
+      "phone2": 1731
+    },
+    {
+      "name": "Шабалкин Сергей Владимирович",
+      "position": "водитель ",
+      "birthday": "11.12.1966",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Токарева Елена Александровна",
+      "position": "специалист по кадрам ",
+      "birthday": "11.12.1981",
+      "phone": "",
+      "email": "a.tokareva@lazarevo.ru",
+      "supervisor": false,
+      "phone2": 1755
+    },
+    {
+      "name": "Гулякевич Светлана Геннадьевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "13.12.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Хрычева Екатерина Викторовна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "14.12.1963",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузьмичев Юрий Николаевич",
+      "position": "слесарь-сантехник",
+      "birthday": "14.12.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кислёнкова Светлана Викторовна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "16.12.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Базыкина Любовь Николаевна",
+      "position": "уборщик производственных помещений ",
+      "birthday": "16.12.1970",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сыров Виталий Анатольевич",
+      "position": "аппаратчик обработки зерна",
+      "birthday": "16.12.1977",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Медведев Валерий Александрович",
+      "position": "водитель ",
+      "birthday": "18.12.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Гречихин Николай Александрович",
+      "position": "водитель ",
+      "birthday": "19.12.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Пыхов Павел Федорович",
+      "position": "водитель ",
+      "birthday": "19.12.2000",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сенин Виктор Николаевич",
+      "position": "слесарь-сантехник",
+      "birthday": "19.12.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Заикина Лариса Вилльевна",
+      "position": "оператор по уходу за подсосными свиноматками",
+      "birthday": "20.12.1981",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Панюшкин Александр Александрович",
+      "position": "укладчик-упаковщик ",
+      "birthday": "20.12.1992",
+      "phone": 79509009716,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Юричева Татьяна Васильевна",
+      "position": "старший лаборант ",
+      "birthday": "21.12.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Лусь Наталья Николаевна",
+      "position": "весовщик ",
+      "birthday": "21.12.1992",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Агапов Дмитрий Сергеевич",
+      "position": "тракторист ",
+      "birthday": "22.12.1988",
+      "phone": 79509017306,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Булавинцев Михаил Сергеевич",
+      "position": "тракторист ",
+      "birthday": "24.12.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бурлаков Алексей Сергеевич",
+      "position": "обвальщик мяса ",
+      "birthday": "25.12.1984",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Жуков Вячеслав Викторович",
+      "position": "машинист насосных установок",
+      "birthday": "27.12.1969",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сенина Наталья Васильевна",
+      "position": "оператор по искусственному осеменению",
+      "birthday": "29.12.1974",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Ребров Геннадий Александрович",
+      "position": "тракторист ",
+      "birthday": "29.12.1962",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Боровина Татьяна Игоревна",
+      "position": "уборщик служебных помещений ",
+      "birthday": "30.12.1967",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Коваленко Татьяна Владимировна",
+      "position": "диспетчер ",
+      "birthday": "30.12.1979",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Мартынова Маргарита Владимировна",
+      "position": "старший мастер ",
+      "birthday": "30.12.1972",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Маркова Светлана Анатольевна",
+      "position": "продавец-кассир ",
+      "birthday": "31.12.1968",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Кузнецов Алексей Петрович",
+      "position": "руководитель отдела ",
+      "birthday": "31.12.1967",
+      "phone": 79190704548,
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Сидорова Галина Николаевна",
+      "position": "оператор по приему ночных опоросов",
+      "birthday": "31.12.1975",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    },
+    {
+      "name": "Бакулина Юлия Викторовна",
+      "position": "обработчик мясных туш ",
+      "birthday": "31.12.1978",
+      "phone": "",
+      "email": "",
+      "supervisor": false,
+      "phone2": ""
+    }
+  ]
+}
