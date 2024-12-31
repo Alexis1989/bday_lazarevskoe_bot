@@ -1,4 +1,5 @@
 import json
+import pprint
 from datetime import date
 
 
@@ -20,3 +21,30 @@ def find_birthdays():
                 birthdays_today.append(item)
 
     return birthdays_today, anniversary_today
+
+
+def find_contacts(str):
+    with open('data.json') as f:
+        d = json.load(f)
+
+    result = []
+
+    for item in d['data']:
+        if item['name'].startswith(str):
+            result.append(item['name'])
+
+    return result
+
+
+def get_contact(str):
+    with open('data.json') as f:
+        d = json.load(f)
+
+    for item in d['data']:
+        if item['name'] == str:
+            return item
+
+
+# find_contacts('Кузнецова')
+
+# get_contact('Кузнецова Наталия Владимировна')
